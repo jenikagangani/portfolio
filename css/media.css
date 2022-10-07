@@ -1,0 +1,248 @@
+@media (max-width: 991px) and (min-width: 768px){
+  /*header*/
+  .img1{
+    margin-left: 120px;
+  }
+  /*home section*/
+  .center1{
+      flex-wrap: wrap;
+      display: block;
+  }
+  .card{
+      width: 950px;
+  }
+  .card-icon {
+    margin-left: 850px;
+  }
+  .main-cards{
+    display:block;
+    flex-wrap: wrap;
+    padding-top:0px;
+  }
+  .about-card{
+    width: 950px;
+    margin: 20px;
+  }
+  .side{
+    margin-top:22px;
+    width: 945px;
+  }
+  .graph{
+    margin-top: 22px;
+  }
+  .text4{
+    margin-right:580px;
+  }
+  /*graph*/
+  .main-graph{
+    flex-wrap: wrap;
+    display: block;
+  }
+  .graph{
+    width:950px;
+  }
+  .graph img{
+    width:890px
+  }
+  /*rocket*/
+  .roc{
+    width:950px;
+    justify-content: space-between;
+    margin: 20px;
+  }
+  .main-progress{
+    display:block;
+    justify-content: space-evenly;
+  }
+  .goiong{
+    margin-top: 20px;
+    width: 940px;
+  }
+  .progress{
+    width:465px;
+  }
+  .line{
+    width:465px;
+  }
+  .flex{
+    margin-top:-20px;
+  }
+  .table-card{
+    margin-top: 30px;
+    margin-left:30px;
+    width:950px;
+  }
+  .flex1{
+    display:block;
+  }
+  .go-1{
+    width:900px;
+  }
+  .go-2 h4{
+    margin-right: 550px;
+  }
+  .reo{
+    margin-left:820px;
+  }
+  table{
+    width:860px;
+    margin-left: 20px;
+  }
+  .runing{
+    width:950px;
+   margin-top:50px;
+   margin-left:0px;
+  }
+  .footer{
+    margin-top: 300px;
+  }
+  .row-img{
+    margin-left:600px;
+  }
+  .run p{
+    padding-left: 700px;
+  }
+}
+@media (max-width:576px){
+
+/*home section*/
+.img1{
+  display: none;
+}
+.center1{
+    flex-wrap: wrap;
+    display: block;
+}
+.card{
+    width: 535px;
+    height: 200px;
+}
+select {
+  display: none;
+}
+.card-icon {
+  margin-left:450px;
+}
+.main-cards{
+  display:block;
+  flex-wrap: wrap;
+  padding-top:0px;
+}
+.about-card{
+  width: 530px;
+  margin: 20px;
+}
+.side{
+  margin-top:22px;
+  width: 530px;
+}
+.graph{
+  margin-top: 22px;
+}
+.text4{
+  margin-right:170px;
+}
+/*graph*/
+.main-graph{
+  flex-wrap: wrap;
+  display: block;
+}
+.graph{
+  width:530px;
+}
+.graph img{
+  width:500px;
+  height:250px;
+}
+/*rocket*/
+.roc{
+  width:530px;
+  justify-content: space-between;
+  margin: 20px;
+}
+.flex{
+  display:block;
+  padding: 20px;
+}
+.main-progress{
+  display:block;
+  justify-content: space-evenly;
+}
+.p1{
+  margin-left: 150px;
+}
+.goiong{
+  margin-top:-15px;
+  width:530px;
+  margin: 25px;
+}
+.progress{
+  width:530px;
+  margin:0;
+  margin-top:5px;
+}
+.line{
+  width:530px;
+  margin: 0;
+  margin-top: 20px;
+}
+.around{
+  margin-left: 70px;
+}
+.flex{
+  margin-top:-20px;
+}
+.table-card{
+  margin-top: 30px;
+  margin-left:30px;
+  width:520px;
+}
+.flex1{
+  display:block;
+}
+.go-1{
+  width:500px;
+}
+.go-2 h4{
+  margin-right:200px;
+}
+.reo{
+  margin-left:430px;
+}
+table{
+  
+  margin-left: 20px;
+}
+.table-box{
+  width: 500px;
+  height: 270px;
+  overflow-x: scroll;
+  scrollbar-color:rgb(201, 98, 98);
+  scrollbar-width: thin;
+}
+.run p{
+  margin-left: 150px;
+}
+.runing{
+  width:525px;
+  margin-top:35px;
+  margin-left:0px;
+}
+.footer{
+  margin-top: 300px;
+  font-size: 13px;
+}
+.row-img{
+  margin-left:330px;
+  margin-top: -40px;
+}
+.row-text{
+  display: block;
+}
+.footer i{
+  position: fixed;
+  bottom: 0;
+  right:6px;
+  margin-top:-20px;
+}
+}
